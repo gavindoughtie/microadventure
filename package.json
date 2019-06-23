@@ -1,0 +1,24 @@
+{
+  "name": "microadventure",
+  "version": "1.0.0",
+  "description": "A tiny adventure game in ES6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavindoughtie/microadventure.git"
+  },
+  "author": "Gavin Doughtie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavindoughtie/microadventure/issues"
+  },
+  "homepage": "https://github.com/gavindoughtie/microadventure#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npm": "^6.9.0"
+  }
+}
