@@ -1,0 +1,27 @@
+{
+  "startingPlace": "clearing",
+  "places": [
+    {
+      "id": "castle",
+      "name": "Scary Castle",
+      "description": "The brooding castle beckons you in.",
+      "img": "http://jeffbrowngraphics.com/wp-content/uploads/2016/05/darkcastle-1080x600.jpg"
+    },
+    {
+      "id": "woods",
+      "name": "Dark woods",
+      "description": "A dark and inviting woods",
+      "img": "https://live.staticflickr.com/1492/24075563634_a92871781f_b.jpg"
+    },
+    {
+      "id": "clearing",
+      "name": "Magical Land",
+      "description": "Everything is beautiful here.",
+      "img": "https://cdn.shopify.com/s/files/1/2341/3995/articles/99a1c84f684e86551e9d1e2b195e6c55-1024x683_1024x768.progressive.jpg?v=1527276599",
+      "exits": {
+        "north": "castle",
+        "south": "woods"
+      }
+    }
+  ]
+}
