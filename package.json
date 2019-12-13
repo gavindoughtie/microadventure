@@ -19,6 +19,6 @@
   "homepage": "https://github.com/gavindoughtie/microadventure#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "npm": "^6.9.0"
+    "npm": "^6.13.4"
   }
 }
